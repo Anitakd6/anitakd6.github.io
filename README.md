@@ -8,5 +8,5 @@ Jira,PICK PICK,Selemium IDE,API,Scenariuszei przypadki testowe,GIT, testowanie a
 Communicative and easy to get in touch with, Ability to work as part of a team, Deployment, Conscientiousness, Honesty, Quick to learn, Hardworking, Computer literacy, Microsoft Office skills, Responsibility, Driving licence B
 ### Certificates
 file:///C:/Users/anita/Downloads/anita-kedzia.pdf
-### Additionally
+
 
