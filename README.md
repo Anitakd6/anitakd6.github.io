@@ -9,4 +9,4 @@ Communicative and easy to get in touch with, Ability to work as part of a team, 
 ### Certificates
 file:///C:/Users/anita/Downloads/anita-kedzia.pdf
 ### Additionally
-UX/UI Designer course launched
+
