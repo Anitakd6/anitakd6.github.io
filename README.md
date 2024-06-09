@@ -5,7 +5,7 @@ I completed the manual tester course in Warsaw. On a daily basis, I am a nice, c
 ## Skills
 Jira,PICK PICK,Selemium IDE,API,Scenariuszei przypadki testowe,GIT, testowanie aplikacji webowej,Python - podstawa,Browser stack,SQL,CHAT GPT, POSTMAN,Tworzenie planu testu
 ### Soft skills
-Communicativeness, Ease of communication, Ability to work as part of a team, Deployment, Conscientiousness, Honesty, Quick to learn, Hardworking, Computer literacy, Microsoft Office skills, Responsibility, Driving licence B
+Communicative and easy to get in touch with, Ability to work as part of a team, Deployment, Conscientiousness, Honesty, Quick to learn, Hardworking, Computer literacy, Microsoft Office skills, Responsibility, Driving licence B
 ### Certificates
 file:///C:/Users/anita/Downloads/anita-kedzia.pdf
 ### Additionally
